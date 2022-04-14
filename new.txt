@@ -1,4 +1,3 @@
 This is new.
 add line 1 from master
-add line 2 from master
 ADD LINE1 into new.txt from dev1
