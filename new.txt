@@ -5,3 +5,5 @@ ADD LINE2 into new.txt from dev2 (MOD1)
 ADD LINE3 into new.txt from dev2
 ADD LINE4 into new.txt from dev2
 ADD LINE5 into new.txt from dev2
+
+add AAA from user dimash
