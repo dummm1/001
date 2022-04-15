@@ -1,5 +1,6 @@
 This is new.
 add line 1 from master (mod1)(mod2)
+add line2 from master
 ADD LINE1 into new.txt from dev1
 ADD LINE2 into new.txt from dev2 (MOD1)
 ADD LINE3 into new.txt from dev2
