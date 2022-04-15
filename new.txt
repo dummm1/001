@@ -15,5 +15,6 @@ dev3 {
 }
 
 dev4 {
-   line1
+  line1
+  line2
 }
