@@ -7,3 +7,7 @@ ADD LINE4 into new.txt from dev2
 ADD LINE5 into new.txt from dev2
 
 add AAA from user dimash
+
+dev3 {
+  line1
+}
